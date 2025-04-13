@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
@@ -23,4 +24,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0048-rotate-image) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
