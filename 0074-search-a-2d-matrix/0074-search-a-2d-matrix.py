@@ -5,27 +5,29 @@ class Solution(object):
         :type target: int
         :rtype: bool
         """
-        ROWS,COLS=len(matrix),len(matrix[0])
+        
+        ROW,COLS=len(matrix),len(matrix[0])
 
         top=0
-        bot=ROWS-1
+        bottom=ROW-1
 
+        while top<=bottom:
+            row=(top+bottom)//2
 
-        while top<=bot:
-            row=(top+bot)//2
-
-            if target>matrix[row][-1]:
+            if target<matrix[row][0]:
+                bottom=row-1
+            elif target>matrix[row][-1]:
                 top=row+1
-            elif target<matrix[row][0]:
-                bot=row-1
             else:
                 break
         
-        if top>bot:
+        if not (top<=bottom):
             return False
-        row=(top+bot)//2
+        
+        row=(top+bottom)//2
 
-        l,r=0,COLS-1
+        l=0
+        r=COLS-1
 
         while l<=r:
             m=(l+r)//2
@@ -37,5 +39,4 @@ class Solution(object):
                 return True
         return False
 
-
-
+            
