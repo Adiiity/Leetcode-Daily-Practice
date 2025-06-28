@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0792-binary-search](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0907-koko-eating-bananas) |
+| [1783-ways-to-make-a-fair-array](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1783-ways-to-make-a-fair-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -218,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [1783-ways-to-make-a-fair-array](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1783-ways-to-make-a-fair-array) |
 <!---LeetCode Topics End-->
