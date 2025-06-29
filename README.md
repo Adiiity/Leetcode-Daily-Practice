@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0695-max-area-of-island](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0695-max-area-of-island) |
 | [0792-binary-search](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0907-koko-eating-bananas) |
 | [1783-ways-to-make-a-fair-array](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1783-ways-to-make-a-fair-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0695-max-area-of-island) |
 ## Math
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0695-max-area-of-island) |
 | [1005-univalued-binary-tree](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1005-univalued-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0226-invert-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0695-max-area-of-island) |
 | [1005-univalued-binary-tree](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1005-univalued-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -234,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0695-max-area-of-island) |
 ## Graph
 |  |
 | ------- |
