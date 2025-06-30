@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0332-reconstruct-itinerary](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0332-reconstruct-itinerary) |
 | [0543-diameter-of-binary-tree](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0695-max-area-of-island) |
@@ -246,4 +247,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0133-clone-graph) |
+| [0332-reconstruct-itinerary](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0332-reconstruct-itinerary) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
