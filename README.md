@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0460-lfu-cache](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0460-lfu-cache) |
 | [0567-permutation-in-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0567-permutation-in-string) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## String
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0206-reverse-linked-list) |
+| [0460-lfu-cache](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0460-lfu-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -263,8 +265,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
