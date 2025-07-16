@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0242-valid-anagram) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0417-pacific-atlantic-water-flow) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -240,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0079-word-search) |
 ## Divide and Conquer
 |  |
 | ------- |
