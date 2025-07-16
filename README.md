@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0056-merge-intervals) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0078-subsets) |
 ## Divide and Conquer
 |  |
