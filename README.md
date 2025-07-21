@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0695-max-area-of-island) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0207-course-schedule) |
 | [0332-reconstruct-itinerary](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0332-reconstruct-itinerary) |
 ## Eulerian Circuit
 |  |
@@ -331,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1014-k-closest-points-to-origin) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
