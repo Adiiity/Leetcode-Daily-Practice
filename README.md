@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1127-last-stone-weight) |
+| [1397-search-suggestions-system](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1397-search-suggestions-system) |
 | [1783-ways-to-make-a-fair-array](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1783-ways-to-make-a-fair-array) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/2664-maximize-greatness-of-an-array) |
 ## Hash Table
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0778-reorganize-string) |
 | [1283-reformat-date](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1283-reformat-date) |
+| [1397-search-suggestions-system](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1397-search-suggestions-system) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Sorting
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1014-k-closest-points-to-origin) |
+| [1397-search-suggestions-system](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1397-search-suggestions-system) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/2664-maximize-greatness-of-an-array) |
 ## Matrix
 |  |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0907-koko-eating-bananas) |
+| [1397-search-suggestions-system](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1397-search-suggestions-system) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -275,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1127-last-stone-weight) |
+| [1397-search-suggestions-system](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1397-search-suggestions-system) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -341,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0207-course-schedule) |
+## Trie
+|  |
+| ------- |
+| [1397-search-suggestions-system](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1397-search-suggestions-system) |
 <!---LeetCode Topics End-->
