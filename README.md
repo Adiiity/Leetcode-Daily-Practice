@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0070-climbing-stairs) |
 | [1014-k-closest-points-to-origin](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1014-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Sliding Window
@@ -353,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1397-search-suggestions-system](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1397-search-suggestions-system) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
