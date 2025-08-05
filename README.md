@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0074-search-a-2d-matrix) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Sliding Window
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1014-k-closest-points-to-origin) |
