@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0074-search-a-2d-matrix) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1632-number-of-good-ways-to-split-a-string) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0778-reorganize-string) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/2664-maximize-greatness-of-an-array) |
