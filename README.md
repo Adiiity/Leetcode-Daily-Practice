@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0621-task-scheduler](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0695-max-area-of-island) |
+| [0747-min-cost-climbing-stairs](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1014-k-closest-points-to-origin) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0747-min-cost-climbing-stairs](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0747-min-cost-climbing-stairs) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Sliding Window
 |  |
