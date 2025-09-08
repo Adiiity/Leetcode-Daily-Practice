@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0048-rotate-image) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0055-jump-game) |
@@ -376,4 +379,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0070-climbing-stairs) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
