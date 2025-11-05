@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1783-ways-to-make-a-fair-array](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1783-ways-to-make-a-fair-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/2664-maximize-greatness-of-an-array) |
+| [3876-transform-array-to-all-equal-elements](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/3876-transform-array-to-all-equal-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0778-reorganize-string) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/2664-maximize-greatness-of-an-array) |
+| [3876-transform-array-to-all-equal-elements](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/3876-transform-array-to-all-equal-elements) |
 ## Prefix Sum
 |  |
 | ------- |
