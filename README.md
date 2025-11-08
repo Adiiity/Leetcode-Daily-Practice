@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0347-top-k-frequent-elements) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0567-permutation-in-string) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0206-reverse-linked-list) |
 | [0460-lfu-cache](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0460-lfu-cache) |
 ## Recursion
