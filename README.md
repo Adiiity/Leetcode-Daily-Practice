@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1127-last-stone-weight) |
 | [1397-search-suggestions-system](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1397-search-suggestions-system) |
+| [1582-design-browser-history](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1582-design-browser-history) |
 | [1783-ways-to-make-a-fair-array](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1783-ways-to-make-a-fair-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/2664-maximize-greatness-of-an-array) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0206-reverse-linked-list) |
 | [0460-lfu-cache](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0460-lfu-cache) |
+| [1582-design-browser-history](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1582-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -414,15 +416,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0460-lfu-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1582-design-browser-history](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1582-design-browser-history) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0460-lfu-cache) |
+| [1582-design-browser-history](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1582-design-browser-history) |
 ## Data Stream
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1582-design-browser-history](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1582-design-browser-history) |
 ## Geometry
 |  |
 | ------- |
@@ -446,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0496-next-greater-element-i) |
+| [1582-design-browser-history](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1582-design-browser-history) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
