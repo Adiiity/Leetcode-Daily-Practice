@@ -8,7 +8,7 @@ class Solution:
         for ch in s:
             if ch.isdigit():
                 num=num*10+int(ch)
-            if ch=='(':
+            elif ch=='(':
                 stack.append(res)
                 stack.append(sign)
                 res=0
