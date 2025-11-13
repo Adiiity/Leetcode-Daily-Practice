@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0747-min-cost-climbing-stairs) |
 | [1250-longest-common-subsequence](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1250-longest-common-subsequence) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Sliding Window
 |  |
 | ------- |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0695-max-area-of-island) |
 | [1005-univalued-binary-tree](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1005-univalued-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1005-univalued-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Binary Tree
 |  |
 | ------- |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0207-course-schedule) |
 | [0332-reconstruct-itinerary](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0332-reconstruct-itinerary) |
+| [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Eulerian Circuit
 |  |
 | ------- |
