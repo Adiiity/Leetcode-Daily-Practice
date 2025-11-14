@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0242-valid-anagram) |
+| [0415-add-strings](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0778-reorganize-string) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0227-basic-calculator-ii) |
+| [0415-add-strings](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0415-add-strings) |
 | [1014-k-closest-points-to-origin](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1014-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
@@ -487,4 +489,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0239-sliding-window-maximum) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
