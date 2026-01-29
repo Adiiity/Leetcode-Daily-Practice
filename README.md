@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0217-contains-duplicate](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0347-top-k-frequent-elements) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0127-word-ladder) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0224-basic-calculator](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0242-valid-anagram) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0070-climbing-stairs) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0224-basic-calculator](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0227-basic-calculator-ii) |
 | [0415-add-strings](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0415-add-strings) |
