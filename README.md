@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0496-next-greater-element-i) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0567-permutation-in-string) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0778-reorganize-string) |
 ## Quickselect
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Monotonic Queue
 |  |
 | ------- |
