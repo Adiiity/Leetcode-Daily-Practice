@@ -522,4 +522,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0023-merge-k-sorted-lists) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
