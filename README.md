@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1783-ways-to-make-a-fair-array](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1783-ways-to-make-a-fair-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/2664-maximize-greatness-of-an-array) |
+| [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/3876-transform-array-to-all-equal-elements) |
 ## Hash Table
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1094-car-pooling) |
 | [1783-ways-to-make-a-fair-array](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1783-ways-to-make-a-fair-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Union Find
 |  |
 | ------- |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0657-robot-return-to-origin) |
 | [1094-car-pooling](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1094-car-pooling) |
+| [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Merge Sort
 |  |
 | ------- |
