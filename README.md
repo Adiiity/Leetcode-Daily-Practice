@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0907-koko-eating-bananas) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1014-k-closest-points-to-origin](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1036-rotting-oranges) |
 | [1094-car-pooling](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1094-car-pooling) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0778-reorganize-string) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1014-k-closest-points-to-origin](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1014-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1094-car-pooling) |
 | [1397-search-suggestions-system](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1397-search-suggestions-system) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0778-reorganize-string) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0945-minimum-increment-to-make-array-unique) |
 ## Quickselect
 |  |
 | ------- |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0778-reorganize-string) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/2664-maximize-greatness-of-an-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
