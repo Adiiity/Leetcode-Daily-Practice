@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0657-robot-return-to-origin) |
 | [0778-reorganize-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0778-reorganize-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1250-longest-common-subsequence](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1250-longest-common-subsequence) |
 | [1283-reformat-date](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1283-reformat-date) |
 | [1397-search-suggestions-system](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1397-search-suggestions-system) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0227-basic-calculator-ii) |
 | [0496-next-greater-element-i](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0496-next-greater-element-i) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1582-design-browser-history](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1582-design-browser-history) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
