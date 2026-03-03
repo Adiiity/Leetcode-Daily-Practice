@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1582-design-browser-history) |
 | [1783-ways-to-make-a-fair-array](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1783-ways-to-make-a-fair-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/2664-maximize-greatness-of-an-array) |
 | [3035-maximum-palindromes-after-operations](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/3035-maximum-palindromes-after-operations) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1094-car-pooling) |
 | [1127-last-stone-weight](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1127-last-stone-weight) |
 | [1397-search-suggestions-system](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1397-search-suggestions-system) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0778-reorganize-string) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/2664-maximize-greatness-of-an-array) |
 | [3035-maximum-palindromes-after-operations](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/3035-maximum-palindromes-after-operations) |
