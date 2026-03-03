@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0611-valid-triangle-number](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0697-degree-of-an-array) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0611-valid-triangle-number](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0778-reorganize-string) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0567-permutation-in-string) |
+| [0611-valid-triangle-number](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0611-valid-triangle-number) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/2664-maximize-greatness-of-an-array) |
 ## Binary Search
 |  |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0410-split-array-largest-sum) |
+| [0611-valid-triangle-number](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0907-koko-eating-bananas) |
 | [1397-search-suggestions-system](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1397-search-suggestions-system) |
@@ -452,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0134-gas-station) |
 | [0410-split-array-largest-sum](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0410-split-array-largest-sum) |
+| [0611-valid-triangle-number](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0778-reorganize-string) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0945-minimum-increment-to-make-array-unique) |
