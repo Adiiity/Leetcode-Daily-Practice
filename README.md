@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/2664-maximize-greatness-of-an-array) |
 | [3035-maximum-palindromes-after-operations](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/3035-maximum-palindromes-after-operations) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0697-degree-of-an-array) |
 | [0778-reorganize-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0778-reorganize-string) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [3035-maximum-palindromes-after-operations](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/3035-maximum-palindromes-after-operations) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0778-reorganize-string) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3035-maximum-palindromes-after-operations](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/3035-maximum-palindromes-after-operations) |
 ## Quickselect
 |  |
