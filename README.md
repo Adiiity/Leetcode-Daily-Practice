@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1397-search-suggestions-system) |
 | [1446-consecutive-characters](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1446-consecutive-characters) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [3035-maximum-palindromes-after-operations](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/3035-maximum-palindromes-after-operations) |
 ## Sorting
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0611-valid-triangle-number) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/2664-maximize-greatness-of-an-array) |
 ## Binary Search
 |  |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0778-reorganize-string) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/2664-maximize-greatness-of-an-array) |
 | [3035-maximum-palindromes-after-operations](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/3035-maximum-palindromes-after-operations) |
@@ -540,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0496-next-greater-element-i) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1582-design-browser-history](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1582-design-browser-history) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
