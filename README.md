@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [3035-maximum-palindromes-after-operations](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/3035-maximum-palindromes-after-operations) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Sorting
 |  |
 | ------- |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0657-robot-return-to-origin) |
 | [1094-car-pooling](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1094-car-pooling) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Merge Sort
 |  |
