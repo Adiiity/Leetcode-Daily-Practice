@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1582-design-browser-history) |
 | [1783-ways-to-make-a-fair-array](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1783-ways-to-make-a-fair-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/2664-maximize-greatness-of-an-array) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0496-next-greater-element-i) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1582-design-browser-history](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1582-design-browser-history) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0496-next-greater-element-i) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Queue
 |  |
