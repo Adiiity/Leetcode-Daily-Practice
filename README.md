@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/2664-maximize-greatness-of-an-array) |
+| [2831-find-the-longest-equal-subarray](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/2831-find-the-longest-equal-subarray) |
 | [3035-maximum-palindromes-after-operations](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/3035-maximum-palindromes-after-operations) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [2831-find-the-longest-equal-subarray](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/2831-find-the-longest-equal-subarray) |
 | [3035-maximum-palindromes-after-operations](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/3035-maximum-palindromes-after-operations) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## String
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0907-koko-eating-bananas) |
 | [1397-search-suggestions-system](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1397-search-suggestions-system) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2831-find-the-longest-equal-subarray](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/2831-find-the-longest-equal-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0567-permutation-in-string) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2831-find-the-longest-equal-subarray](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/2831-find-the-longest-equal-subarray) |
 ## Tree
 |  |
 | ------- |
