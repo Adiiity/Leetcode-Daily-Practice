@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0485-max-consecutive-ones](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0485-max-consecutive-ones) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0460-lfu-cache) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0224-basic-calculator](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0227-basic-calculator-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0415-add-strings](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0415-add-strings) |
 | [1014-k-closest-points-to-origin](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1014-k-closest-points-to-origin) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0155-min-stack) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0460-lfu-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1582-design-browser-history](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1582-design-browser-history) |
@@ -595,4 +599,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0200-number-of-islands) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
