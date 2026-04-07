@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0697-degree-of-an-array) |
+| [0706-design-hashmap](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0792-binary-search) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0621-task-scheduler) |
 | [0697-degree-of-an-array](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0697-degree-of-an-array) |
+| [0706-design-hashmap](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0706-design-hashmap) |
 | [0778-reorganize-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0778-reorganize-string) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0206-reverse-linked-list) |
 | [0460-lfu-cache](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0460-lfu-cache) |
+| [0706-design-hashmap](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0706-design-hashmap) |
 | [1582-design-browser-history](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1582-design-browser-history) |
 ## Recursion
 |  |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0572-subtree-of-another-tree) |
+| [0706-design-hashmap](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0706-design-hashmap) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -520,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0460-lfu-cache) |
+| [0706-design-hashmap](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0706-design-hashmap) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1582-design-browser-history](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1582-design-browser-history) |
 ## Doubly-Linked List
