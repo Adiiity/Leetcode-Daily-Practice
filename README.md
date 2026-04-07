@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0134-gas-station) |
+| [0139-word-break](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0162-find-peak-element) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0160-intersection-of-two-linked-lists) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0139-word-break) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0224-basic-calculator](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0227-basic-calculator-ii) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0213-house-robber-ii) |
@@ -550,11 +554,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0139-word-break) |
 | [1397-search-suggestions-system](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/1397-search-suggestions-system) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Adiiity/Leetcode-Daily-Practice/tree/master/0139-word-break) |
 ## Stack
 |  |
 | ------- |
