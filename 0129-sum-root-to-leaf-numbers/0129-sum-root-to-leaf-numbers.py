@@ -7,22 +7,23 @@
 class Solution:
     def sumNumbers(self, root: Optional[TreeNode]) -> int:
         curSum=0
-        def dfs(node,strNum):
+        def dfs(node,num):
             nonlocal curSum
             if not node:
                 return
             
-            strNum+=str(node.val)
+            # strNum+=str(node.val)
+            num=num*10+node.val
             if not node.left and not node.right:
-                curSum+=int(strNum)
+                curSum+=num
             
             if node.left:
-                dfs(node.left,strNum)
+                dfs(node.left,num)
             if node.right:
-                dfs(node.right,strNum)
+                dfs(node.right,num)
             
             
-        dfs(root,'')
+        dfs(root,0)
         return curSum
 
         
